@@ -1,0 +1,1127 @@
+TiOSDrumApp
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/Info.plist iOSDrumApp/iOSDrumApp-Info.plist
+cProcessPCH++ /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-fvizxrzmbbapajbqggmkuztyqout/iOSDrumApp-Prefix.pch.pth iOSDrumApp/iOSDrumApp-Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch.pth iOSDrumApp/iOSDrumApp-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/PeakProcessor.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/OnsetDetectionFunction.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/PreciseOnsetLocator.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PreciseOnsetLocator.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/accFFT.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/accFFT.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/BTrackPlus.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/BTrackPlus.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/main.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/main.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/AppDelegate.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/ViewController.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/ViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_accel.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_accel.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_audio.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_audio.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_colormap.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_colormap.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_fft.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_fft.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_filter.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_fun.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_fun.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_io.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_io.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_thread.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_thread.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_touch.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_touch.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/iOSDrumApp normal i386
+cGenerateDSYMFile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app.dSYM /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/iOSDrumApp
+cCopyStringsFile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/en.lproj/InfoPlist.strings iOSDrumApp/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/en.lproj/MainStoryboard.storyboard
+cCpResource iOSDrumApp/momu-1.0.0/AUTHORS build/Debug-iphonesimulator/iOSDrumApp.app/AUTHORS
+cCpResource iOSDrumApp/momu-1.0.0/COPYING build/Debug-iphonesimulator/iOSDrumApp.app/COPYING
+cCpResource iOSDrumApp/momu-1.0.0/DEVELOPER build/Debug-iphonesimulator/iOSDrumApp.app/DEVELOPER
+cCpResource iOSDrumApp/momu-1.0.0/README build/Debug-iphonesimulator/iOSDrumApp.app/README
+cCpResource iOSDrumApp/momu-1.0.0/THANKS build/Debug-iphonesimulator/iOSDrumApp.app/THANKS
+cCpResource iOSDrumApp/momu-1.0.0/TODO build/Debug-iphonesimulator/iOSDrumApp.app/TODO
+cCpResource iOSDrumApp/momu-1.0.0/VERSIONS build/Debug-iphonesimulator/iOSDrumApp.app/VERSIONS
+cCpResource iOSDrumApp/images/play.png build/Debug-iphonesimulator/iOSDrumApp.app/play.png
+cCpResource iOSDrumApp/images/stop.png build/Debug-iphonesimulator/iOSDrumApp.app/stop.png
+cCpResource iOSDrumApp/images/tempotrack.png build/Debug-iphonesimulator/iOSDrumApp.app/tempotrack.png
+cCpResource iOSDrumApp/sounds/cowbell.wav build/Debug-iphonesimulator/iOSDrumApp.app/cowbell.wav
+cCpResource iOSDrumApp/images/tempoTracker_button.png build/Debug-iphonesimulator/iOSDrumApp.app/tempoTracker_button.png
+cCpResource Default-568h@2x.png build/Debug-iphonesimulator/iOSDrumApp.app/Default-568h@2x.png
+cCpResource iOSDrumApp/images/metronome_button.png build/Debug-iphonesimulator/iOSDrumApp.app/metronome_button.png
+cCpResource iOSDrumApp/images/volume_background.png build/Debug-iphonesimulator/iOSDrumApp.app/volume_background.png
+cCpResource iOSDrumApp/images/blinkOff.png build/Debug-iphonesimulator/iOSDrumApp.app/blinkOff.png
+cCpResource iOSDrumApp/images/blinkOn.png build/Debug-iphonesimulator/iOSDrumApp.app/blinkOn.png
+cCpResource iOSDrumApp/images/tempoTracker_Text.png build/Debug-iphonesimulator/iOSDrumApp.app/tempoTracker_Text.png
+cCpResource iOSDrumApp/images/lines.png build/Debug-iphonesimulator/iOSDrumApp.app/lines.png
+cCpResource iOSDrumApp/images/about.png build/Debug-iphonesimulator/iOSDrumApp.app/about.png
+cCpResource iOSDrumApp/images/bpm.png build/Debug-iphonesimulator/iOSDrumApp.app/bpm.png
+cCpResource iOSDrumApp/images/volume_Text.png build/Debug-iphonesimulator/iOSDrumApp.app/volume_Text.png
+cTouch /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000506055A200000000001EAFC0
+t1348490658
+s2011072
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c00000000506055A10000000000003530
+t1348490657
+s13616
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000506055A200000000003D2B80
+t1348490658
+s4008832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000506055A30000000000228FD0
+t1348490659
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000506055A400000000003DCEF0
+t1348490660
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000506055A90000000000AB3D60
+t1348490665
+s11222368
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/Default-568h@2x.png
+c000000005049BB1000000000000048A2
+t1347009296
+s18594
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app.dSYM
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/AUTHORS
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/COPYING
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/DEVELOPER
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/Info.plist
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/PkgInfo
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/README
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/THANKS
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/TODO
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/VERSIONS
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/about.png
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/blinkOff.png
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/blinkOn.png
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/bpm.png
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/cowbell.wav
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/iOSDrumApp
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/lines.png
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/metronome_button.png
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/play.png
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/stop.png
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/tempoTracker_Text.png
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/tempoTracker_button.png
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/tempotrack.png
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/volume_Text.png
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/volume_background.png
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/BTrackPlus.o
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/OnsetDetectionFunction.o
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/PeakProcessor.o
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/PreciseOnsetLocator.o
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/accFFT.o
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/iOSDrumApp.LinkFileList
+c0000000050929A9F0000000000000A8E
+t1351785119
+s2702
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_accel.o
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_audio.o
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_colormap.o
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_fft.o
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_filter.o
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_fun.o
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_io.o
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_thread.o
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_touch.o
+t2
+s0
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.mm
+c00000000509268A800000000000011A1
+t1351772328
+s4513
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/ViewController.mm
+c00000000509299680000000000002607
+t1351784808
+s9735
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/BTrackPlus.cpp
+c000000005087CFA80000000000003D35
+t1351077800
+s15669
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp
+c000000005006945D00000000000050A1
+t1342608477
+s20641
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/accFFT.cpp
+c000000005087FC250000000000000ED8
+t1351089189
+s3800
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/en.lproj/InfoPlist.strings
+c000000005049D185000000000000002D
+t1347015045
+s45
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/en.lproj/MainStoryboard.storyboard
+c0000000050929A5D0000000000003CA3
+t1351785053
+s15523
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/iOSDrumApp-Prefix.pch
+c000000005049D1850000000000000143
+t1347015045
+s323
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/about.png
+c000000005092780E0000000000002B9C
+t1351776270
+s11164
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/blinkOff.png
+c00000000509274BA0000000000000ABE
+t1351775418
+s2750
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/blinkOn.png
+c00000000509274970000000000000B53
+t1351775383
+s2899
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/bpm.png
+c0000000050927C450000000000000391
+t1351777349
+s913
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/lines.png
+c000000005092752F00000000000007EF
+t1351775535
+s2031
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/metronome_button.png
+c0000000050926B2E0000000000001519
+t1351772974
+s5401
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/play.png
+c00000000502BA4AD00000000000019AE
+t1345037485
+s6574
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/stop.png
+c00000000502BA4A00000000000000D88
+t1345037472
+s3464
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/tempoTracker_Text.png
+c00000000509275460000000000000A23
+t1351775558
+s2595
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/tempoTracker_button.png
+c0000000050926B1400000000000017E5
+t1351772948
+s6117
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/tempotrack.png
+c00000000502BA1C20000000000002D14
+t1345036738
+s11540
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/volume_Text.png
+c0000000050927F440000000000000530
+t1351778116
+s1328
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/volume_background.png
+c0000000050929A8600000000000002FD
+t1351785094
+s765
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/main.mm
+c0000000050880174000000000000015B
+t1351090548
+s347
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/AUTHORS
+c000000004C11569E0000000000000224
+t1276204702
+s548
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/COPYING
+c000000004C1156E600000000000004F4
+t1276204774
+s1268
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/DEVELOPER
+c000000004C1156FF0000000000000042
+t1276204799
+s66
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/README
+c000000004C1157F300000000000005D3
+t1276205043
+s1491
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/THANKS
+c000000004C1158400000000000000150
+t1276205120
+s336
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/TODO
+c000000004C1158160000000000000052
+t1276205078
+s82
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/VERSIONS
+c000000004C11572D0000000000000028
+t1276204845
+s40
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_accel.mm
+c000000004C1154EB0000000000001EA9
+t1276204267
+s7849
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_audio.mm
+c000000004C1154EB00000000000059B8
+t1276204267
+s22968
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_colormap.mm
+c000000004C1141BD000000000001184A
+t1276199357
+s71754
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_fft.mm
+c000000004C1154EB0000000000002648
+t1276204267
+s9800
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm
+c000000004C1154EB00000000000043D1
+t1276204267
+s17361
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_fun.mm
+c000000004C113CD20000000000000C1C
+t1276198098
+s3100
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_io.mm
+c000000004C1154EB0000000000007B2F
+t1276204267
+s31535
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_thread.mm
+c000000004C113EC500000000000018A4
+t1276198597
+s6308
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_touch.mm
+c000000004C1165100000000000002231
+t1276208400
+s8753
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.cpp
+c00000000505C8C910000000000000ED0
+t1348242577
+s3792
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PreciseOnsetLocator.cpp
+c00000000505C8CC20000000000000BE0
+t1348242626
+s3040
+
+N/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/sounds/cowbell.wav
+c000000004E931A6C00000000000034AC
+t1318263404
+s13484
+
+N/var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-fvizxrzmbbapajbqggmkuztyqout/iOSDrumApp-Prefix.pch.pth
+t2
+s0
+
+NiOSDrumApp/iOSDrumApp-Info.plist
+c00000000505C9011000000000000046D
+t1348243473
+s1133
+
+CBuild AST from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.mm
+r0
+
+CBuild AST from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/ViewController.mm
+r0
+
+CBuild AST from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/BTrackPlus.cpp
+r0
+
+CBuild AST from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp
+r0
+
+CBuild AST from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/accFFT.cpp
+r0
+
+CBuild AST from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/main.mm
+r0
+
+CBuild AST from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_accel.mm
+r0
+
+CBuild AST from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_audio.mm
+r0
+
+CBuild AST from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_colormap.mm
+r0
+
+CBuild AST from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_fft.mm
+r0
+
+CBuild AST from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm
+r0
+
+CBuild AST from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_fun.mm
+r0
+
+CBuild AST from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_io.mm
+r0
+
+CBuild AST from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_thread.mm
+r0
+
+CBuild AST from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_touch.mm
+r0
+
+CBuild AST from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.cpp
+r0
+
+CBuild AST from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PreciseOnsetLocator.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies569e7c1fd242b641^59a6df1fd242b641^---0#1#0#--18"Check dependencies36"50E0F993-A15D-48D8-9986-21B9B65ED01B-
+
+CCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/AppDelegate.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477920.975396
+e373477922.128361
+r1
+xCompileC
+xbuild/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/AppDelegate.o
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.mm:9:
+oIn file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.h:15:
+oIn file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.h:13:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h:59:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. [-W#warnings]
+o#warning This file includes at least one deprecated or antiquated header. \
+o ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.mma9dbf920d242b641^63642122d242b641^-1190"In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.mm:9:In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.h:15:In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.h:13:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h:59:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. [-W#warnings]#warning This file includes at least one deprecated or antiquated header. \ ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@345"This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.-373477922#18446744073709551615#0#4(2@114"In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.mm:9:-373477922#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@105"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.mm0000000000000000^8#8#8#8#155#0#30"Apple LLVM compiler 4.1 Notice--2@114"In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.h:15:-373477922#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@104"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.h0000000000000000^14#9#14#9#280#0#30"Apple LLVM compiler 4.1 Notice--2@136"In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.h:13:-373477922#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@126"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.h0000000000000000^12#9#12#9#195#0#30"Apple LLVM compiler 4.1 Notice--2@181"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h:59:-373477922#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@171"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h0000000000000000^58#9#58#9#2588#0#30"Apple LLVM compiler 4.1 Notice--1#27"com.apple.dt.IDE.diagnostic3@181"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/backward_warning.h0000000000000000^31#1#31#1#1480#0#18"#warning Directive--0#0#0#-19%DVTDocumentLocation4@105"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.mm0000000000000000^4043"CompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/AppDelegate.o iOSDrumApp/AppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -include /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch -MMD -MT dependencies -MF /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/AppDelegate.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.mm -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/AppDelegate.o36"E9B39228-5D42-406F-BE62-4824B61DBEB7-
+
+CCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/BTrackPlus.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/BTrackPlus.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477920.970716
+e373477921.561664
+r1
+xCompileC
+xbuild/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/BTrackPlus.o
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/BTrackPlus.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/BTrackPlus.cpp:269:8: warning: unused variable 'output' [-Wunused-variable]
+o        float output[512];
+o              ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/BTrackPlus.cppefa9f820d242b641^60039e21d242b641^-227"/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/BTrackPlus.cpp:269:8: warning: unused variable 'output' [-Wunused-variable]        float output[512];              ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@24"Unused variable 'output'-373477921#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@117"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/BTrackPlus.cpp0000000000000000^268#7#268#7#5371#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@117"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/BTrackPlus.cpp0000000000000000^3649"CompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/BTrackPlus.o iOSDrumApp/btrack_plus/BTrackPlus.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -include /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-fvizxrzmbbapajbqggmkuztyqout/iOSDrumApp-Prefix.pch -MMD -MT dependencies -MF /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/BTrackPlus.d --serialize-diagnostics /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/BTrackPlus.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/BTrackPlus.cpp -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/BTrackPlus.o36"F58A9B2B-4042-435A-99A9-CB9677CEDC87-
+
+CCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/OnsetDetectionFunction.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477919.993680
+e373477920.970804
+r1
+xCompileC
+xbuild/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/OnsetDetectionFunction.o
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp:264:6: warning: unused variable 'fsize2' [-Wunused-variable]
+o        int fsize2 = (framesize/2);
+o            ^
+o/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp:594:9: warning: unused variable 'mag_diff' [-Wunused-variable]
+o        double mag_diff;
+o               ^
+o/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp:749:6: warning: unused variable 'lim1' [-Wunused-variable]
+o        int lim1,lim2;
+o            ^
+o/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp:749:11: warning: unused variable 'lim2' [-Wunused-variable]
+o        int lim1,lim2;
+o                 ^
+o4 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp9889fe1fd242b641^5393f820d242b641^-892"/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp:264:6: warning: unused variable 'fsize2' [-Wunused-variable]        int fsize2 = (framesize/2);            ^/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp:594:9: warning: unused variable 'mag_diff' [-Wunused-variable]        double mag_diff;               ^/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp:749:6: warning: unused variable 'lim1' [-Wunused-variable]        int lim1,lim2;            ^/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp:749:11: warning: unused variable 'lim2' [-Wunused-variable]        int lim1,lim2;                 ^4 warnings generated.4(36%IDEClangDiagnosticActivityLogMessage2@24"Unused variable 'fsize2'-373477920#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@129"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp0000000000000000^263#5#263#5#7054#0#19"Unused Entity Issue--2@26"Unused variable 'mag_diff'-373477920#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@129"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp0000000000000000^593#8#593#8#14961#0#19"Unused Entity Issue--2@22"Unused variable 'lim1'-373477920#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@129"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp0000000000000000^748#5#748#5#19077#0#19"Unused Entity Issue--2@22"Unused variable 'lim2'-373477920#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@129"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp0000000000000000^748#10#748#10#19082#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@129"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp0000000000000000^3721"CompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/OnsetDetectionFunction.o iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -include /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-fvizxrzmbbapajbqggmkuztyqout/iOSDrumApp-Prefix.pch -MMD -MT dependencies -MF /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/OnsetDetectionFunction.d --serialize-diagnostics /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/OnsetDetectionFunction.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/OnsetDetectionFunction.cpp -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/OnsetDetectionFunction.o36"6AABE76A-A376-4B39-90A9-963C5AF16EAC-
+
+CCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/PeakProcessor.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477919.993617
+e373477920.970128
+r1
+xCompileC
+xbuild/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/PeakProcessor.o
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.cpp:10:
+oIn file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.h:13:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h:59:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. [-W#warnings]
+o#warning This file includes at least one deprecated or antiquated header. \
+o ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.cpp179bfe1fd242b641^3c66f820d242b641^-1099"In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.cpp:10:In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.h:13:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h:59:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. [-W#warnings]#warning This file includes at least one deprecated or antiquated header. \ ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@345"This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.-373477920#18446744073709551615#0#3(2@138"In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.cpp:10:-373477920#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@128"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.cpp0000000000000000^9#9#9#9#150#0#30"Apple LLVM compiler 4.1 Notice--2@136"In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.h:13:-373477920#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@126"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.h0000000000000000^12#9#12#9#195#0#30"Apple LLVM compiler 4.1 Notice--2@181"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h:59:-373477920#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@171"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h0000000000000000^58#9#58#9#2588#0#30"Apple LLVM compiler 4.1 Notice--1#27"com.apple.dt.IDE.diagnostic3@181"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/backward_warning.h0000000000000000^31#1#31#1#1480#0#18"#warning Directive--0#0#0#-19%DVTDocumentLocation4@128"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.cpp0000000000000000^3683"CompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/PeakProcessor.o iOSDrumApp/preciseOnsetLocator/PeakProcessor.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -include /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-fvizxrzmbbapajbqggmkuztyqout/iOSDrumApp-Prefix.pch -MMD -MT dependencies -MF /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/PeakProcessor.d --serialize-diagnostics /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/PeakProcessor.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.cpp -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/PeakProcessor.o36"D495FDDB-B0C6-432A-ACA4-BEAE40D94BF2-
+
+CCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/PreciseOnsetLocator.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PreciseOnsetLocator.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477919.993753
+e373477920.833541
+r1
+xCompileC
+xbuild/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/PreciseOnsetLocator.o
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PreciseOnsetLocator.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PreciseOnsetLocator.cpp:10:
+oIn file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PreciseOnsetLocator.h:14:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h:59:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. [-W#warnings]
+o#warning This file includes at least one deprecated or antiquated header. \
+o ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PreciseOnsetLocator.cpp7c9bfe1fd242b641^9773d520d242b641^-1111"In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PreciseOnsetLocator.cpp:10:In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PreciseOnsetLocator.h:14:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h:59:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. [-W#warnings]#warning This file includes at least one deprecated or antiquated header. \ ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@345"This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.-373477920#18446744073709551615#0#3(2@144"In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PreciseOnsetLocator.cpp:10:-373477920#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@134"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PreciseOnsetLocator.cpp0000000000000000^9#9#9#9#156#0#30"Apple LLVM compiler 4.1 Notice--2@142"In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PreciseOnsetLocator.h:14:-373477920#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@132"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PreciseOnsetLocator.h0000000000000000^13#9#13#9#216#0#30"Apple LLVM compiler 4.1 Notice--2@181"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h:59:-373477920#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@171"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h0000000000000000^58#9#58#9#2588#0#30"Apple LLVM compiler 4.1 Notice--1#27"com.apple.dt.IDE.diagnostic3@181"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/backward_warning.h0000000000000000^31#1#31#1#1480#0#18"#warning Directive--0#0#0#-19%DVTDocumentLocation4@134"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PreciseOnsetLocator.cpp0000000000000000^3719"CompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/PreciseOnsetLocator.o iOSDrumApp/preciseOnsetLocator/PreciseOnsetLocator.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -include /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-fvizxrzmbbapajbqggmkuztyqout/iOSDrumApp-Prefix.pch -MMD -MT dependencies -MF /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/PreciseOnsetLocator.d --serialize-diagnostics /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/PreciseOnsetLocator.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PreciseOnsetLocator.cpp -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/PreciseOnsetLocator.o36"F83600EE-0D88-4A31-8097-2BD21C70FD5D-
+
+CCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/ViewController.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/ViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477921.157056
+e373477922.473731
+r1
+xCompileC
+xbuild/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/ViewController.o
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/ViewController.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/ViewController.mm:10:
+oIn file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.h:15:
+oIn file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.h:13:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h:59:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. [-W#warnings]
+o#warning This file includes at least one deprecated or antiquated header. \
+o ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/ViewController.mm997f2821d242b641^ef917922d242b641^-1194"In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/ViewController.mm:10:In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.h:15:In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.h:13:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h:59:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. [-W#warnings]#warning This file includes at least one deprecated or antiquated header. \ ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@345"This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.-373477922#18446744073709551615#0#4(2@118"In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/ViewController.mm:10:-373477922#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@108"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/ViewController.mm0000000000000000^9#8#9#8#185#0#30"Apple LLVM compiler 4.1 Notice--2@114"In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.h:15:-373477922#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@104"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.h0000000000000000^14#9#14#9#280#0#30"Apple LLVM compiler 4.1 Notice--2@136"In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.h:13:-373477922#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@126"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.h0000000000000000^12#9#12#9#195#0#30"Apple LLVM compiler 4.1 Notice--2@181"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h:59:-373477922#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@171"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h0000000000000000^58#9#58#9#2588#0#30"Apple LLVM compiler 4.1 Notice--1#27"com.apple.dt.IDE.diagnostic3@181"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/backward_warning.h0000000000000000^31#1#31#1#1480#0#18"#warning Directive--0#0#0#-19%DVTDocumentLocation4@108"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/ViewController.mm0000000000000000^4061"CompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/ViewController.o iOSDrumApp/ViewController.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -include /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch -MMD -MT dependencies -MF /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/ViewController.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/ViewController.mm -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/ViewController.o36"6DBC5C93-C696-4B88-8AF7-C8A78E3F4674-
+
+CCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/accFFT.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/accFFT.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477920.834888
+e373477921.155670
+r1
+xCompileC
+xbuild/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/accFFT.o
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/accFFT.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/accFFT.cpp730ed620d242b641^6ff32a21d242b641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/accFFT.cpp0000000000000000^3625"CompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/accFFT.o iOSDrumApp/btrack_plus/accFFT.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -include /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-fvizxrzmbbapajbqggmkuztyqout/iOSDrumApp-Prefix.pch -MMD -MT dependencies -MF /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/accFFT.d --serialize-diagnostics /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/accFFT.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/btrack_plus/accFFT.cpp -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/accFFT.o36"A3500A9E-56C9-4A92-9353-EEEEB36E0D5D-
+
+CCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/main.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/main.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477920.974847
+e373477922.020964
+r1
+xCompileC
+xbuild/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/main.o
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/main.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/main.mm:11:
+oIn file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.h:15:
+oIn file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.h:13:
+oIn file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h:59:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. [-W#warnings]
+o#warning This file includes at least one deprecated or antiquated header. \
+o ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/main.mm0ef7f920d242b641^f31b0622d242b641^-1184"In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/main.mm:11:In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.h:15:In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.h:13:In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h:59:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. [-W#warnings]#warning This file includes at least one deprecated or antiquated header. \ ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@345"This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.-373477922#18446744073709551615#0#4(2@108"In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/main.mm:11:-373477922#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@98"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/main.mm0000000000000000^10#8#10#8#173#0#30"Apple LLVM compiler 4.1 Notice--2@114"In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.h:15:-373477922#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@104"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/AppDelegate.h0000000000000000^14#9#14#9#280#0#30"Apple LLVM compiler 4.1 Notice--2@136"In file included from /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.h:13:-373477922#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@126"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/preciseOnsetLocator/PeakProcessor.h0000000000000000^12#9#12#9#195#0#30"Apple LLVM compiler 4.1 Notice--2@181"In file included from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h:59:-373477922#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@171"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/vector.h0000000000000000^58#9#58#9#2588#0#30"Apple LLVM compiler 4.1 Notice--1#27"com.apple.dt.IDE.diagnostic3@181"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/c++/4.2.1/backward/backward_warning.h0000000000000000^31#1#31#1#1480#0#18"#warning Directive--0#0#0#-19%DVTDocumentLocation4@98"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/main.mm0000000000000000^4001"CompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/main.o iOSDrumApp/main.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -include /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch -MMD -MT dependencies -MF /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/main.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/main.mm -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/main.o36"6F14EF9F-AF9D-4348-A35D-FD6A9184CF95-
+
+CCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_accel.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_accel.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477921.572193
+e373477922.001052
+r1
+xCompileC
+xbuild/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_accel.o
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_accel.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_accel.mmae679821d242b641^910c0122d242b641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_accel.mm0000000000000000^4055"CompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_accel.o iOSDrumApp/momu-1.0.0/api/mo_accel.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -include /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch -MMD -MT dependencies -MF /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_accel.d --serialize-diagnostics /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_accel.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_accel.mm -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_accel.o36"6B46A9DB-C7B6-4425-8E5B-717619889767-
+
+CCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_audio.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_audio.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477922.002818
+e373477922.183992
+r1
+xCompileC
+xbuild/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_audio.o
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_audio.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_audio.mm96ec0022d242b641^5e2d2f22d242b641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_audio.mm0000000000000000^4055"CompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_audio.o iOSDrumApp/momu-1.0.0/api/mo_audio.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -include /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch -MMD -MT dependencies -MF /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_audio.d --serialize-diagnostics /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_audio.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_audio.mm -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_audio.o36"DB140CA2-75E9-40AD-8878-016A148D7DEE-
+
+CCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_colormap.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_colormap.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477922.032042
+e373477923.544465
+r1
+xCompileC
+xbuild/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_colormap.o
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_colormap.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_colormap.mm4e620822d242b641^52628b23d242b641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_colormap.mm0000000000000000^4073"CompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_colormap.o iOSDrumApp/momu-1.0.0/api/mo_colormap.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -include /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch -MMD -MT dependencies -MF /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_colormap.d --serialize-diagnostics /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_colormap.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_colormap.mm -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_colormap.o36"E69B2F29-BB31-4769-9243-9EF0EC9811DB-
+
+CCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_fft.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_fft.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477922.152313
+e373477922.202597
+r1
+xCompileC
+xbuild/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_fft.o
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_fft.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_fft.mmf12e2722d242b641^a6f13322d242b641^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_fft.mm0000000000000000^4043"CompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_fft.o iOSDrumApp/momu-1.0.0/api/mo_fft.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -include /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch -MMD -MT dependencies -MF /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_fft.d --serialize-diagnostics /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_fft.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_fft.mm -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_fft.o36"914996AD-4A19-4A15-904A-9D8015E6798D-
+
+CCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_filter.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477922.185292
+e373477922.330770
+r1
+xCompileC
+xbuild/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_filter.o
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm:86:55: warning: format specifies type 'int' but the argument has type 'long' [-Wformat]
+o        fprintf( stderr, "[mopho](via MoFilter): nb (%d) and na (%d) must be >= 1!", nb, na );
+o                                                     ~^                              ~~
+o                                                     %ld
+o/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm:86:67: warning: format specifies type 'int' but the argument has type 'long' [-Wformat]
+o        fprintf( stderr, "[mopho](via MoFilter): nb (%d) and na (%d) must be >= 1!", nb, na );
+o                                                                 ~^                      ~~
+o                                                                 %ld
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm76a72f22d242b641^bb7e5522d242b641^-900"/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm:86:55: warning: format specifies type 'int' but the argument has type 'long' [-Wformat]        fprintf( stderr, "[mopho](via MoFilter): nb (%d) and na (%d) must be >= 1!", nb, na );                                                     ~^                              ~~                                                     %ld/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm:86:67: warning: format specifies type 'int' but the argument has type 'long' [-Wformat]        fprintf( stderr, "[mopho](via MoFilter): nb (%d) and na (%d) must be >= 1!", nb, na );                                                                 ~^                      ~~                                                                 %ld2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@60"Format specifies type 'int' but the argument has type 'long'-373477922#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@118"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm0000000000000000^85#54#85#54#3201#0#19"Format String Issue3(3@118"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm0000000000000000^85#85#85#87#3232#0#3@118"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm0000000000000000^85#53#85#55#3200#2#3@118"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm0000000000000000^85#53#85#55#3200#2#-2@60"Format specifies type 'int' but the argument has type 'long'-373477922#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@118"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm0000000000000000^85#66#85#66#3213#0#19"Format String Issue3(3@118"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm0000000000000000^85#89#85#91#3236#0#3@118"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm0000000000000000^85#65#85#67#3212#2#3@118"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm0000000000000000^85#65#85#67#3212#2#-0#0#0#-19%DVTDocumentLocation4@118"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm0000000000000000^4061"CompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_filter.o iOSDrumApp/momu-1.0.0/api/mo_filter.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -include /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch -MMD -MT dependencies -MF /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_filter.d --serialize-diagnostics /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_filter.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_filter.mm -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_filter.o36"CF1D8EF6-6481-48A9-A6F4-B760F4DD79E7-
+
+CCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_fun.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_fun.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477922.203947
+e373477922.239803
+r1
+xCompileC
+xbuild/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_fun.o
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_fun.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_fun.mm4d6a3422d242b641^e3713d22d242b641^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_fun.mm0000000000000000^4043"CompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_fun.o iOSDrumApp/momu-1.0.0/api/mo_fun.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -include /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch -MMD -MT dependencies -MF /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_fun.d --serialize-diagnostics /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_fun.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_fun.mm -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_fun.o36"26B16087-A91D-4D44-8F14-21DF8D734DB3-
+
+CCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_io.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_io.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477922.241115
+e373477922.954992
+r1
+xCompileC
+xbuild/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_io.o
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_io.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_io.mm:697:84: warning: format specifies type 'int' but the argument has type 'long' [-Wformat]
+o        fprintf( stderr, "[mopho](via MoAudilFileIn): MAT-file array data format( %d ) not supported.", tmp );
+o                                                                                  ~^                    ~~~
+o                                                                                  %ld
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_io.mm57ee3d22d242b641^ae7ef422d242b641^-514"/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_io.mm:697:84: warning: format specifies type 'int' but the argument has type 'long' [-Wformat]        fprintf( stderr, "[mopho](via MoAudilFileIn): MAT-file array data format( %d ) not supported.", tmp );                                                                                  ~^                    ~~~                                                                                  %ld1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@60"Format specifies type 'int' but the argument has type 'long'-373477922#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@114"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_io.mm0000000000000000^696#83#696#83#21612#0#19"Format String Issue3(3@114"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_io.mm0000000000000000^696#104#696#107#21633#0#3@114"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_io.mm0000000000000000^696#82#696#84#21611#2#3@114"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_io.mm0000000000000000^696#82#696#84#21611#2#-0#0#0#-19%DVTDocumentLocation4@114"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_io.mm0000000000000000^4037"CompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_io.o iOSDrumApp/momu-1.0.0/api/mo_io.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -include /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch -MMD -MT dependencies -MF /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_io.d --serialize-diagnostics /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_io.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_io.mm -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_io.o36"0AA42E7D-5255-4520-820E-96A75C0C2A39-
+
+CCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_thread.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_thread.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477922.346786
+e373477922.932218
+r1
+xCompileC
+xbuild/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_thread.o
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_thread.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_thread.mm2e045922d242b641^e3c5ee22d242b641^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_thread.mm0000000000000000^4061"CompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_thread.o iOSDrumApp/momu-1.0.0/api/mo_thread.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -include /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch -MMD -MT dependencies -MF /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_thread.d --serialize-diagnostics /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_thread.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_thread.mm -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_thread.o36"89EB1449-2474-4FAA-A2D5-6AB4292E375C-
+
+CCompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_touch.o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_touch.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477922.475457
+e373477923.040641
+r1
+xCompileC
+xbuild/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_touch.o
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_touch.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_touch.mm64ad7d22d242b641^69510b23d242b641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_touch.mm0000000000000000^4055"CompileC build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_touch.o iOSDrumApp/momu-1.0.0/api/mo_touch.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -include /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch -MMD -MT dependencies -MF /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_touch.d --serialize-diagnostics /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_touch.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/api/mo_touch.mm -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/mo_touch.o36"B6379E08-A78F-4030-80BD-57C626FF48A3-
+
+CCompileStoryboard /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/en.lproj/MainStoryboard.storyboard
+s373477923.681132
+e373477923.943978
+r1
+xCompileStoryboard
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/en.lproj/MainStoryboard.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"CompileStoryboard iOSDrumApp/en.lproj/MainStoryboard.storyboard9772ae23d242b641^00a9f123d242b641^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/en.lproj/MainStoryboard.storyboard0000000000000000^1028"CompileStoryboard iOSDrumApp/en.lproj/MainStoryboard.storyboard    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/en.lproj/MainStoryboard.storyboardc /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"304EDBE6-45F3-4D04-BA9F-F0135D2AFE5E-
+
+CCopyStringsFile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/en.lproj/InfoPlist.strings iOSDrumApp/en.lproj/InfoPlist.strings
+s373477923.681120
+e373477923.724806
+r1
+xCopyStringsFile
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/en.lproj/InfoPlist.strings
+xiOSDrumApp/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy iOSDrumApp/en.lproj/InfoPlist.strings9772ae23d242b641^268db923d242b641^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/en.lproj/InfoPlist.strings0000000000000000^637"CopyStringsFile build/Debug-iphonesimulator/iOSDrumApp.app/en.lproj/InfoPlist.strings iOSDrumApp/en.lproj/InfoPlist.strings    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/en.lproj -- iOSDrumApp/en.lproj/InfoPlist.strings36"9424ADCC-BEB6-4FF6-9474-03B3AA03F1E6-
+
+CCpResource Default-568h@2x.png build/Debug-iphonesimulator/iOSDrumApp.app/Default-568h@2x.png
+s373477923.765541
+e373477923.770074
+r1
+xCpResource
+xDefault-568h@2x.png
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug-iphonesimulator/iOSDrumApp.app/Default-568h@2x.png1d1cc423d242b641^4a24c523d242b641^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/Default-568h@2x.png000000000080d041^669"CpResource "Default-568h@2x.png" "build/Debug-iphonesimulator/iOSDrumApp.app/Default-568h@2x.png"    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/Default-568h@2x.png" /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"5D7713C2-C5B4-4968-84A4-148D5ECE4D78-
+
+CCpResource iOSDrumApp/images/about.png build/Debug-iphonesimulator/iOSDrumApp.app/about.png
+s373477923.780790
+e373477923.793439
+r1
+xCpResource
+xiOSDrumApp/images/about.png
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/about.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/iOSDrumApp.app/about.pngadfbc723d242b641^f392cb23d242b641^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/about.png000000000080d041^669"CpResource iOSDrumApp/images/about.png build/Debug-iphonesimulator/iOSDrumApp.app/about.png    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/about.png /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"81B8D8CD-0928-453C-9088-11B77C0D692D-
+
+CCpResource iOSDrumApp/images/blinkOff.png build/Debug-iphonesimulator/iOSDrumApp.app/blinkOff.png
+s373477923.773368
+e373477923.775684
+r1
+xCpResource
+xiOSDrumApp/images/blinkOff.png
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/blinkOff.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Debug-iphonesimulator/iOSDrumApp.app/blinkOff.png1f12c623d242b641^1494c623d242b641^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/blinkOff.png000000000080d041^678"CpResource iOSDrumApp/images/blinkOff.png build/Debug-iphonesimulator/iOSDrumApp.app/blinkOff.png    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/blinkOff.png /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"1A3E13AE-6311-40DA-8B87-FF3B6F027235-
+
+CCpResource iOSDrumApp/images/blinkOn.png build/Debug-iphonesimulator/iOSDrumApp.app/blinkOn.png
+s373477923.774986
+e373477923.777285
+r1
+xCpResource
+xiOSDrumApp/images/blinkOn.png
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/blinkOn.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Debug-iphonesimulator/iOSDrumApp.app/blinkOn.png7576c623d242b641^9cfcc623d242b641^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/blinkOn.png000000000080d041^675"CpResource iOSDrumApp/images/blinkOn.png build/Debug-iphonesimulator/iOSDrumApp.app/blinkOn.png    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/blinkOn.png /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"A4F608E3-67A5-4298-89A2-42E8D06FBABB-
+
+CCpResource iOSDrumApp/images/bpm.png build/Debug-iphonesimulator/iOSDrumApp.app/bpm.png
+s373477923.780795
+e373477923.783412
+r1
+xCpResource
+xiOSDrumApp/images/bpm.png
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/bpm.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/iOSDrumApp.app/bpm.png7afbc723d242b641^7a8ec823d242b641^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/bpm.png000000000080d041^663"CpResource iOSDrumApp/images/bpm.png build/Debug-iphonesimulator/iOSDrumApp.app/bpm.png    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/bpm.png /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"1C613017-3D73-4930-BE60-02A97E37F4D8-
+
+CCpResource iOSDrumApp/images/lines.png build/Debug-iphonesimulator/iOSDrumApp.app/lines.png
+s373477923.778584
+e373477923.781234
+r1
+xCpResource
+xiOSDrumApp/images/lines.png
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/lines.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/iOSDrumApp.app/lines.png3066c723d242b641^fb04c823d242b641^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/lines.png000000000080d041^669"CpResource iOSDrumApp/images/lines.png build/Debug-iphonesimulator/iOSDrumApp.app/lines.png    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/lines.png /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"8E2B820F-382D-44B4-B97A-5E75732A4095-
+
+CCpResource iOSDrumApp/images/metronome_button.png build/Debug-iphonesimulator/iOSDrumApp.app/metronome_button.png
+s373477923.769805
+e373477923.772169
+r1
+xCpResource
+xiOSDrumApp/images/metronome_button.png
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/metronome_button.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug-iphonesimulator/iOSDrumApp.app/metronome_button.png912bc523d242b641^47b0c523d242b641^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/metronome_button.png000000000080d041^702"CpResource iOSDrumApp/images/metronome_button.png build/Debug-iphonesimulator/iOSDrumApp.app/metronome_button.png    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/metronome_button.png /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"4D39E1D8-C021-4792-BD16-1D471F63B130-
+
+CCpResource iOSDrumApp/images/play.png build/Debug-iphonesimulator/iOSDrumApp.app/play.png
+s373477923.721060
+e373477923.724212
+r1
+xCpResource
+xiOSDrumApp/images/play.png
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/play.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/iOSDrumApp.app/play.png97aeb823d242b641^be66b923d242b641^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/play.png000000000080d041^666"CpResource iOSDrumApp/images/play.png build/Debug-iphonesimulator/iOSDrumApp.app/play.png    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/play.png /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"7D1316B8-6970-40E8-AA53-AD9471048374-
+
+CCpResource iOSDrumApp/images/stop.png build/Debug-iphonesimulator/iOSDrumApp.app/stop.png
+s373477923.725407
+e373477923.764176
+r1
+xCpResource
+xiOSDrumApp/images/stop.png
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/stop.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/iOSDrumApp.app/stop.png44c4b923d242b641^12a3c323d242b641^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/stop.png000000000080d041^666"CpResource iOSDrumApp/images/stop.png build/Debug-iphonesimulator/iOSDrumApp.app/stop.png    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/stop.png /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"15D82138-2454-494C-959A-9FE99007DA8A-
+
+CCpResource iOSDrumApp/images/tempoTracker_Text.png build/Debug-iphonesimulator/iOSDrumApp.app/tempoTracker_Text.png
+s373477923.776933
+e373477923.779569
+r1
+xCpResource
+xiOSDrumApp/images/tempoTracker_Text.png
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/tempoTracker_Text.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug-iphonesimulator/iOSDrumApp.app/tempoTracker_Text.png45f5c623d242b641^9f92c723d242b641^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/tempoTracker_Text.png000000000080d041^705"CpResource iOSDrumApp/images/tempoTracker_Text.png build/Debug-iphonesimulator/iOSDrumApp.app/tempoTracker_Text.png    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/tempoTracker_Text.png /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"18E3B4FC-8621-46F3-8172-EA40E1370BA5-
+
+CCpResource iOSDrumApp/images/tempoTracker_button.png build/Debug-iphonesimulator/iOSDrumApp.app/tempoTracker_button.png
+s373477923.765528
+e373477923.768501
+r1
+xCpResource
+xiOSDrumApp/images/tempoTracker_button.png
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/tempoTracker_button.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy build/Debug-iphonesimulator/iOSDrumApp.app/tempoTracker_button.png691ec423d242b641^c2bfc423d242b641^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/tempoTracker_button.png000000000080d041^711"CpResource iOSDrumApp/images/tempoTracker_button.png build/Debug-iphonesimulator/iOSDrumApp.app/tempoTracker_button.png    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/tempoTracker_button.png /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"873372CE-BACA-4E84-A869-8B303B3D5D70-
+
+CCpResource iOSDrumApp/images/tempotrack.png build/Debug-iphonesimulator/iOSDrumApp.app/tempotrack.png
+s373477923.725421
+e373477923.764560
+r1
+xCpResource
+xiOSDrumApp/images/tempotrack.png
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/tempotrack.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Debug-iphonesimulator/iOSDrumApp.app/tempotrack.pngb0cab923d242b641^0abcc323d242b641^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/tempotrack.png000000000080d041^684"CpResource iOSDrumApp/images/tempotrack.png build/Debug-iphonesimulator/iOSDrumApp.app/tempotrack.png    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/tempotrack.png /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"16825B63-3F39-4B56-8A13-1BC88D86DEBA-
+
+CCpResource iOSDrumApp/images/volume_Text.png build/Debug-iphonesimulator/iOSDrumApp.app/volume_Text.png
+s373477923.782527
+e373477923.795044
+r1
+xCpResource
+xiOSDrumApp/images/volume_Text.png
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/volume_Text.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/iOSDrumApp.app/volume_Text.png556cc823d242b641^069ecb23d242b641^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/volume_Text.png000000000080d041^687"CpResource iOSDrumApp/images/volume_Text.png build/Debug-iphonesimulator/iOSDrumApp.app/volume_Text.png    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/volume_Text.png /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"5CEAD692-764C-43C9-B2D3-317CE840D43C-
+
+CCpResource iOSDrumApp/images/volume_background.png build/Debug-iphonesimulator/iOSDrumApp.app/volume_background.png
+s373477923.771406
+e373477923.773743
+r1
+xCpResource
+xiOSDrumApp/images/volume_background.png
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/volume_background.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug-iphonesimulator/iOSDrumApp.app/volume_background.png1d8fc523d242b641^e014c623d242b641^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/volume_background.png000000000080d041^705"CpResource iOSDrumApp/images/volume_background.png build/Debug-iphonesimulator/iOSDrumApp.app/volume_background.png    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/images/volume_background.png /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"314B8631-185A-407C-8AD2-69F9E3DC110F-
+
+CCpResource iOSDrumApp/momu-1.0.0/AUTHORS build/Debug-iphonesimulator/iOSDrumApp.app/AUTHORS
+s373477923.681495
+e373477923.710072
+r1
+xCpResource
+xiOSDrumApp/momu-1.0.0/AUTHORS
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/AUTHORS
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/iOSDrumApp.app/AUTHORS5988ae23d242b641^dec7b523d242b641^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/AUTHORS000000000080d041^671"CpResource iOSDrumApp/momu-1.0.0/AUTHORS build/Debug-iphonesimulator/iOSDrumApp.app/AUTHORS    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/AUTHORS /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"9866F384-E7A8-4EBE-9DB1-31356DCEC90B-
+
+CCpResource iOSDrumApp/momu-1.0.0/COPYING build/Debug-iphonesimulator/iOSDrumApp.app/COPYING
+s373477923.681505
+e373477923.711926
+r1
+xCpResource
+xiOSDrumApp/momu-1.0.0/COPYING
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/COPYING
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/iOSDrumApp.app/COPYING9087ae23d242b641^a648b623d242b641^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/COPYING000000000080d041^671"CpResource iOSDrumApp/momu-1.0.0/COPYING build/Debug-iphonesimulator/iOSDrumApp.app/COPYING    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/COPYING /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"7C7D6CCE-C289-47DF-9F71-A1BAF1A1D4FB-
+
+CCpResource iOSDrumApp/momu-1.0.0/DEVELOPER build/Debug-iphonesimulator/iOSDrumApp.app/DEVELOPER
+s373477923.711389
+e373477923.714294
+r1
+xCpResource
+xiOSDrumApp/momu-1.0.0/DEVELOPER
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/DEVELOPER
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/iOSDrumApp.app/DEVELOPER7638b623d242b641^4ddcb623d242b641^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/DEVELOPER000000000080d041^677"CpResource iOSDrumApp/momu-1.0.0/DEVELOPER build/Debug-iphonesimulator/iOSDrumApp.app/DEVELOPER    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/DEVELOPER /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"55681C12-4A1D-447B-8862-CC6BD7FBCEA8-
+
+CCpResource iOSDrumApp/momu-1.0.0/README build/Debug-iphonesimulator/iOSDrumApp.app/README
+s373477923.713159
+e373477923.716013
+r1
+xCpResource
+xiOSDrumApp/momu-1.0.0/README
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/README
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/Debug-iphonesimulator/iOSDrumApp.app/READMEc2a6b623d242b641^334eb723d242b641^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/README000000000080d041^668"CpResource iOSDrumApp/momu-1.0.0/README build/Debug-iphonesimulator/iOSDrumApp.app/README    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/README /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"FCB2353D-7125-440A-B78B-C5704639FAA2-
+
+CCpResource iOSDrumApp/momu-1.0.0/THANKS build/Debug-iphonesimulator/iOSDrumApp.app/THANKS
+s373477923.715513
+e373477923.718133
+r1
+xCpResource
+xiOSDrumApp/momu-1.0.0/THANKS
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/THANKS
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/Debug-iphonesimulator/iOSDrumApp.app/THANKSd53cb723d242b641^bed8b723d242b641^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/THANKS000000000080d041^668"CpResource iOSDrumApp/momu-1.0.0/THANKS build/Debug-iphonesimulator/iOSDrumApp.app/THANKS    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/THANKS /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"DD9EF84D-6856-4514-9450-F5C05256A485-
+
+CCpResource iOSDrumApp/momu-1.0.0/TODO build/Debug-iphonesimulator/iOSDrumApp.app/TODO
+s373477923.717130
+e373477923.719811
+r1
+xCpResource
+xiOSDrumApp/momu-1.0.0/TODO
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/TODO
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/Debug-iphonesimulator/iOSDrumApp.app/TODOebabb723d242b641^2848b823d242b641^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/TODO000000000080d041^662"CpResource iOSDrumApp/momu-1.0.0/TODO build/Debug-iphonesimulator/iOSDrumApp.app/TODO    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/TODO /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"63D4E012-0BA9-4979-A98D-192829A4E6E0-
+
+CCpResource iOSDrumApp/momu-1.0.0/VERSIONS build/Debug-iphonesimulator/iOSDrumApp.app/VERSIONS
+s373477923.719344
+e373477923.745073
+r1
+xCpResource
+xiOSDrumApp/momu-1.0.0/VERSIONS
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/VERSIONS
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphonesimulator/iOSDrumApp.app/VERSIONS143db823d242b641^8cbebe23d242b641^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/VERSIONS000000000080d041^674"CpResource iOSDrumApp/momu-1.0.0/VERSIONS build/Debug-iphonesimulator/iOSDrumApp.app/VERSIONS    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/momu-1.0.0/VERSIONS /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"A87DA1E9-0EDE-436C-9F68-F04FBC1439FA-
+
+CCpResource iOSDrumApp/sounds/cowbell.wav build/Debug-iphonesimulator/iOSDrumApp.app/cowbell.wav
+s373477923.746476
+e373477923.779613
+r1
+xCpResource
+xiOSDrumApp/sounds/cowbell.wav
+xbuild/Debug-iphonesimulator/iOSDrumApp.app/cowbell.wav
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Debug-iphonesimulator/iOSDrumApp.app/cowbell.wav4337bf23d242b641^0a9dc723d242b641^---0#0#0#-19%DVTDocumentLocation2@134"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/cowbell.wav000000000080d041^675"CpResource iOSDrumApp/sounds/cowbell.wav build/Debug-iphonesimulator/iOSDrumApp.app/cowbell.wav    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/sounds/cowbell.wav /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"5EB2E07A-A5D6-4B24-8BCF-AAE5C62E6498-
+
+CGenerateDSYMFile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app.dSYM /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/iOSDrumApp
+s373477923.610090
+e373477923.672066
+r1
+xGenerateDSYMFile
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app.dSYM
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/iOSDrumApp
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Generating /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app.dSYM2d439c23d242b641^e90cac23d242b641^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app.dSYM000000000080d041^718"GenerateDSYMFile build/Debug-iphonesimulator/iOSDrumApp.app.dSYM build/Debug-iphonesimulator/iOSDrumApp.app/iOSDrumApp    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/iOSDrumApp -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app.dSYM36"EDAE54B5-6788-4ED4-803B-52969A689715-
+
+CLd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/iOSDrumApp normal i386
+s373477923.550917
+e373477923.602296
+r1
+xLd
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/iOSDrumApp
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Link /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/iOSDrumApp9f208d23d242b641^1f319a23d242b641^---0#0#0#--1365"Ld build/Debug-iphonesimulator/iOSDrumApp.app/iOSDrumApp normal i386    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator -filelist /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/Objects-normal/i386/iOSDrumApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.1 -framework AVFoundation -framework Accelerate -framework AudioToolbox -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/iOSDrumApp36"10A856C7-337B-4EBF-B971-45A7B1F53DB8-
+
+CProcessInfoPlistFile /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/Info.plist iOSDrumApp/iOSDrumApp-Info.plist
+s373477919.891245
+e373477919.905580
+r1
+xProcessInfoPlistFile
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/Info.plist
+xiOSDrumApp/iOSDrumApp-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Process iOSDrumApp/iOSDrumApp-Info.plistb33fe41fd242b641^bd1ae81fd242b641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/iOSDrumApp-Info.plist0000000000000000^746"ProcessInfoPlistFile build/Debug-iphonesimulator/iOSDrumApp.app/Info.plist iOSDrumApp/iOSDrumApp-Info.plist    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iOSDrumApp/iOSDrumApp-Info.plist -genpkginfo /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app/Info.plist36"F51A23C3-F624-4501-A6B4-74888D5AD733-
+
+CProcessPCH++ /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/DerivedData/iOSDrumApp/Index/PrecompiledHeaders/iOSDrumApp-Prefix-etvwwouoncdbllegarmhwhwbqoau_ast/iOSDrumApp-Prefix.pch.pth iOSDrumApp/iOSDrumApp-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/DerivedData/iOSDrumApp/Index/PrecompiledHeaders/iOSDrumApp-Prefix-faaljkkdsqwzriakmbigxoryzght_ast/iOSDrumApp-Prefix.pch.pth iOSDrumApp/iOSDrumApp-Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch.pth iOSDrumApp/iOSDrumApp-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477919.922798
+e373477920.968439
+r1
+xProcessPCH++
+x/var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch.pth
+xiOSDrumApp/iOSDrumApp-Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile iOSDrumApp/iOSDrumApp-Prefix.pchf965ec1fd242b641^5bebf720d242b641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/iOSDrumApp-Prefix.pch0000000000000000^3984"ProcessPCH++ /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch.pth iOSDrumApp/iOSDrumApp-Prefix.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-arc-abi -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/iOSDrumApp-Prefix.pch -o /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-eusrlbooumbllzciregqigkswjnw/iOSDrumApp-Prefix.pch.d36"0886D96A-0379-47AC-A2F3-DAB0D263571B-
+
+CProcessPCH++ /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-fvizxrzmbbapajbqggmkuztyqout/iOSDrumApp-Prefix.pch.pth iOSDrumApp/iOSDrumApp-Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s373477919.922793
+e373477919.981577
+r1
+xProcessPCH++
+x/var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-fvizxrzmbbapajbqggmkuztyqout/iOSDrumApp-Prefix.pch.pth
+xiOSDrumApp/iOSDrumApp-Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile iOSDrumApp/iOSDrumApp-Prefix.pch815aec1fd242b641^6d54fb1fd242b641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/iOSDrumApp-Prefix.pch0000000000000000^3570"ProcessPCH++ /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-fvizxrzmbbapajbqggmkuztyqout/iOSDrumApp-Prefix.pch.pth iOSDrumApp/iOSDrumApp-Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility-inlines-hidden -Wno-sign-conversion -mios-simulator-version-min=5.1 -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-generated-files.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-own-target-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-all-target-headers.hmap -iquote /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/iOSDrumApp-project-headers.hmap -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources/i386 -I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/iOSDrumApp.build/Debug-iphonesimulator/iOSDrumApp.build/DerivedSources -F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-fvizxrzmbbapajbqggmkuztyqout/iOSDrumApp-Prefix.pch.dia -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/iOSDrumApp-Prefix.pch -o /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-fvizxrzmbbapajbqggmkuztyqout/iOSDrumApp-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/pf/b3zn53f10sz801vy82gfbn2c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/iOSDrumApp-Prefix-fvizxrzmbbapajbqggmkuztyqout/iOSDrumApp-Prefix.pch.d36"F3980F3B-5D37-46E9-869E-A7B56C840A4D-
+
+CTouch /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app
+s373477923.963734
+e373477923.978988
+r1
+xTouch
+x/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Touch /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app93c8f623d242b641^279ffa23d242b641^---0#0#0#--444"Touch build/Debug-iphonesimulator/iOSDrumApp.app    cd /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/iOSDrumApp.app36"69589098-3987-4D37-AFFA-F5E697065512-
+

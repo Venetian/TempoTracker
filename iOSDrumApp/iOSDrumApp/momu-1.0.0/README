@@ -1,0 +1,43 @@
+
+MoMu: A Mobile Music Toolkit
+
+MoMu homepage:
+    http://momu.stanford.edu/toolkit/
+
+---
+what is it:
+
+The Mobile Music (MoMu) toolkit is a new open-source software development toolkit focusing on musical interaction design for mobile phones. The toolkit, currently implemented for iPhone OS, emphasizes usability and rapid prototyping with the end goal of aiding developers in creating real-time interactive audio applications. Simple and unified access to onboard sensors along with utilities for common tasks found in mobile music development are provided. The toolkit has been deployed and evaluated in theStanford Mobile Phone Orchestra (MoPhO) and serves as the primary software platform in a new course exploring mobile music.
+
+who it is for: audio/multimedia researchers, mobile software developers, composers, and performers.
+
+what this distribution includes:
+  - MoMu API and source
+  - license + other information
+
+supported platforms:
+  - iPhone OS, iOS (iPhone, iPad, iPod Touches)
+
+authors:
+  see AUTHORS  
+
+MoMu homepage:
+    http://momu.stanford.edu/toolkit/
+
+Mobile Music Research @ CCRMA, Stanford University
+Music, Computing, Design Group
+    http://momu.stanford.edu/
+    http://ccrma.stanford.edu/groups/mcd/
+
+---
+
+*** QUICK START ***
+
+Visit the MoMu home page (http://momu.stanford.edu/toolkit/)
+
+- TEXT only documents:
+    README - this document
+    COPYING/AUTHORS/THANKS - info
+    DEVELOPER - developer's guide
+    TODO - list of DONE and TODO
+    VERSION - version

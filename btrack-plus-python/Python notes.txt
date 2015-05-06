@@ -1,0 +1,13 @@
+Python:
+
+
+>>python setup.py build
+
+>>python setup.py install
+
+these are scripts that build C++ code and install??
+
+python run_beats.py
+
+can easily check the setup script
+

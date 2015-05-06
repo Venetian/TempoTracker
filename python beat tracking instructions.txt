@@ -1,0 +1,4 @@
+1. run python setup.py build from command line
+
+2. python setup.py install
+

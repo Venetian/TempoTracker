@@ -1,0 +1,28 @@
+Contents of /Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/iOSDrumApp/iOSDrumApp-Prefix.pch
+3.1 (tags/Apple/clang-318.0.61) (based on LLVM 3.1svn)
+i386-apple-darwin11.4.0
+-x
+c++
+-arch
+i386
+-fmessage-length=0
+-fpascal-strings
+-O0
+-DDEBUG=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+-fexceptions
+-fasm-blocks
+-mmacosx-version-min=10.6
+-g
+-fvisibility-inlines-hidden
+-D__IPHONE_OS_VERSION_MIN_REQUIRED=50100
+-iquote
+-iquote
+-I/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator/include
+-F/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp/build/Debug-iphonesimulator
+-ferror-limit=10
+-working-directory=/Users/adamstark/Documents/Codasign/projects/DrumApp/iOSDrumApp
+-Xclang
+-detailed-preprocessing-record
+SDK_PRODUCT_BUILD_VERSION=9B176
